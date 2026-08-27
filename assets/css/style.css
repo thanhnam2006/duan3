@@ -261,7 +261,7 @@ a {
 .word-item:hover {
   border: 1.6rem solid #2e80ce;
   transition: 0.5s;
-  transform: scaleY(-2rem);
+  transform: translateY(-1.9rem);
 }
 .word-item__heading {
   color: #10375c;
